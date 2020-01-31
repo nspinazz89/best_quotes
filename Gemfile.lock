@@ -1,0 +1,18 @@
+PATH
+  remote: ../rulers
+  specs:
+    rulers (0.0.1)
+      rack
+
+GEM
+  specs:
+    rack (2.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rulers!
+
+BUNDLED WITH
+   2.1.4

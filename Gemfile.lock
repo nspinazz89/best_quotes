@@ -5,6 +5,7 @@ PATH
       rack
 
 GEM
+  remote: http://rubygems.org/
   specs:
     rack (2.1.1)
 
@@ -16,3 +17,4 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.1.4
+

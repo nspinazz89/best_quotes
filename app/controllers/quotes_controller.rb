@@ -1,6 +1,6 @@
 class QuotesController < Rulers::Controller
   def a_quote
-    'The game is afoot! Follow your spirit and on this charge cry, "God for Henry, England and Saint George!"'
+    render :a_quote, saint_name: "Saint George"
   end
 
   def exception
